@@ -1,5 +1,9 @@
-## Hi there, I'm Natalia 👋
+## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Maslenat's+Github+Profile..)](https://git.io/typing-svg)
+
+
+# I'm Natalia and I'm frontend developer from Vladivostok👩🏽‍💻
+
 
 ### Connect with me:
 - <a href="https://t.me/Maslenat" target="blank">Telegram</a>
