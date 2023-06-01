@@ -11,7 +11,7 @@
  <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="200"/>
 
 
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+<img src="https://api.giphy.com/media/mtBkmqk2rzS8O8rBcUAw8g5RJtmah8X3" width="480" height="360"/>
 
 ### Connect with me:
 - <a href="https://t.me/Maslenat" target="blank">Telegram</a>
