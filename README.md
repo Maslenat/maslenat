@@ -2,8 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Maslenat's+Github+Profile..)](https://git.io/typing-svg)
 
 
-# I'm Natalia and I'm frontend developer from Vladivostok👩🏽‍💻
+### I'm Natalia and I'm frontend developer from Vladivostok👩🏽‍💻
 
+ <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="200"/>
 
 ### Connect with me:
 - <a href="https://t.me/Maslenat" target="blank">Telegram</a>
