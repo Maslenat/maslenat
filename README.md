@@ -2,13 +2,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Maslenat's+Github+Profile..)](https://git.io/typing-svg)
 
 
+
+
 ### I'm Natalia and I'm frontend developer from Vladivostok👩🏽‍💻
 
+
+
  <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="200"/>
+
+
+<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 
 ### Connect with me:
 - <a href="https://t.me/Maslenat" target="blank">Telegram</a>
 - <a href="nata.m.79@mail.ru" target="blank">E-mail</a>
+
+
 
 
 ### Tech stack:
