@@ -1,5 +1,5 @@
 ## Hi there, I'm Natalia 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Gulkovva19's+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+Github+Profile..)](https://git.io/typing-svg)
 
 ### Connect with me:
 - <a href="https://t.me/Maslenat" target="blank">Telegram</a>
