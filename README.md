@@ -6,8 +6,8 @@
 
 ### I'm Natalia and I'm frontend developer from Vladivostok👩🏽‍💻
 
- <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp?cid=6c09b952d95d6824fd44a8f1d26956f1fe7f3f921a9cee1c&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g" width="300"
-      style="border-radius: 15%"/>
+ <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp?cid=6c09b952d95d6824fd44a8f1d26956f1fe7f3f921a9cee1c&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"
+        width="300" height="300" style="border-radius: 50%" />
 
 
 ### Connect with me:
